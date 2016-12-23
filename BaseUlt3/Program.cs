@@ -16,8 +16,8 @@ namespace BaseUlt3
         private static void Game_OnGameLoad(EventArgs args)
         {
             BaseUlt = new BaseUlt();
-            Game.PrintChat("BaseUlt Updated by LordZEDith");
-            Game.PrintChat("Draven and Ezreal Damage Updated");
+            Game.PrintChat("BaseUlt 3");
+            
         }
     }
 }
